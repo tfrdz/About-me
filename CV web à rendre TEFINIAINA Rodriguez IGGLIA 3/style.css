@@ -1,0 +1,105 @@
+.intro
+{
+	color: #760001;
+	font-size: 30px;
+	font-family: Arial Black, Impact;
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+	min-width: 700px;
+}
+
+#sh{
+	display: block;
+	width: 200px;
+	border-radius: 100px; 
+	margin-left: 50px;
+}
+nav
+{
+	float: left;
+	border: 1px solid black;
+	border-radius: 20px;
+	display: inline-block;
+	width: 1000px;
+	text-align: right;
+	box-shadow: 6px 10px 6px #181818;
+	background-color: #120108;
+}
+
+nav ul
+{
+	list-style-type: none;
+
+}
+nav li
+{
+	display: inline-block;
+	margin-right: 75px;
+	font-family: Arial Black, Impact;
+
+}
+nav a
+{
+	font-size: 1.3em;
+	color: #181818;
+	padding-bottom: 3px;
+	text-decoration: none;
+}
+nav a:hover
+{
+	color: #760001;
+	border-bottom: 3px solid #760001;
+}
+
+p
+{
+width: 350px;
+font-family: Trebuchet MS ;
+	
+text-align: justify;
+padding: 12px; /* Marge intérieure de 12px */
+margin-top: 100px;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+#list
+{
+	font-size: 30px; 
+	font-family: Trebuchet MS ;
+	background-color: grey;
+	border-radius: 20px;
+	width:1050px;
+}
+
+.one
+{
+	display: block;
+	width: 300px;
+	border-radius: 30px;
+}
+
+#d
+{
+	font-size: 30px; 
+	font-family: Trebuchet MS ;
+}
+
+.two
+{
+	display: block;
+	width: 300px;
+	border-radius: 30px;
+}
+
+
+.rd
+{
+	display: block;
+	width: 300px;
+	border-radius: 20px;
+}
